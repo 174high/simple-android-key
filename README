@@ -1,0 +1,12 @@
+only support android 9.0 and above version
+
+1. Socket_learning-master  android client-socket 
+2. server                  PC      server-socket 
+3. android runs on simulator 
+4. commication between PC and simulator 
+5. https://github.com/Carson-Ho/Socket_learning   android source code 
+6. https://www.cnblogs.com/shaocm/p/3517031.html  how to communicate PC and simulator 
+7. on simulaor PC ip is 10.0.2.2 . port is the same as PC ,so use the same port 
+8. (1).javac Server.java (2).java Server 
+9. Android系统为实现通信将PC机IP设置为了10.0.2.2，自身为10.0.2.15/127.0.0.1，
+所有安卓虚拟机默认是可以通过10.0.2.2本机联网
